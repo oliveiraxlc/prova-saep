@@ -1,0 +1,12 @@
+Requisitos Funcionais 
+O sistema deve permitir a autenticação de usuários, com login seguro, validação de falha de autenticação e exibição do nome do usuário logado, além de opções para acessar recursos e sair do sistema.
+O sistema deve gerenciar os responsáveis, permitindo cadastrar, listar, buscar, atualizar e excluir registros, com suporte a busca por termo para filtrar os responsáveis na listagem.
+O sistema deve gerenciar as crianças, permitindo cadastrar novas crianças associadas a um responsável, além de consultar, atualizar e excluir os dados das crianças.
+O sistema deve gerenciar os agendamentos de atendimentos, exibindo os registros ordenados por data e apresentando as informações da criança, do responsável e do psicólogo vinculados ao atendimento.
+
+
+1.2 Preencha os requisitos de infraestrutura
+SGBD Utilizado: Postgres
+Versão: 18
+Linguagem de Programação: java
+Versão: 25
